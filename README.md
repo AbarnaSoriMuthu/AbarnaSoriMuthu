@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbarnaSoriMuthu
-- 👀 I’m interested in Data Administration 
+- 👀 I’m interested in Data Base
 - 🌱 I’m currently learning C,SQL
   
 
